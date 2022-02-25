@@ -1,0 +1,47 @@
+body{
+    font-family: Roboto, sans-serif;
+    width:100%;
+    margin:0;
+    padding:0;
+}
+
+.header{
+    background:#1F2937;
+}
+
+.header h3{
+    font-size:24px;
+    color:#F9FAF8;
+    padding:0;
+    margin:0;
+}
+
+.header ul{
+    font-size:18px;
+    color:#E5E7EB;
+}
+
+button {
+ color:#3882F6;
+}
+
+.section{
+    width:200px;
+    height:200px;
+    border: 1px solid black;
+}
+
+.information h2{
+    font-size:36px;
+    font-weight:800;    
+    color:#1F2937
+}
+
+.quote{
+    background:#E5E7EB;
+
+}
+
+.footer{
+    background:#1F2937;
+}

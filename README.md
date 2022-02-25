@@ -1,2 +1,2 @@
 # landing-page-project
-A web page created from a design using HTML and CSS.
+A web page created from a design using HTML and CSS. The main focus of this project is to apply fresh concepts such as flexbox and become accustomed to the problem solving process when encountering issues.
